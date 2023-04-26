@@ -4,7 +4,7 @@
 
   Nomad is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourest/"><strong>➥ Live Demo</strong></a>
+  <a href="https://alphaotuken.github.io/Nomad-Front-End-Website/#"><strong>➥ Live Demo</strong></a>
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/Nomad-Front-End-Website)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Nomad-Front-End-Website?style=social)
