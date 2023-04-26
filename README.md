@@ -8,7 +8,7 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/Nomad-Front-End-Website)
   ![GitHub stars](https://img.shields.io/github.com/alphaotuken/Nomad-Front-End-Website?style=social)
-  ![GitHub forks](https://img.shields.io/github.com/alphaotuken/Nomad-Front-End-Website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/Nomad-Front-End-Website?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/taloisik?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
 
   <br />
