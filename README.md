@@ -6,9 +6,9 @@
 
   <a href="https://alphaotuken.github.io/Nomad-Front-End-Website/#"><strong>➥ Live Demo</strong></a>
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/alphaotuken/Nomad-Front-End-Website)
-  ![GitHub stars](https://img.shields.io/github/stars/alphaotuken/Nomad-Front-End-Website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/alphaotuken/Nomad-Front-End-Website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/talobyte/Nomad-Front-End-Website)
+  ![GitHub stars](https://img.shields.io/github/stars/talobyte/Nomad-Front-End-Website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/talobyte/Nomad-Front-End-Website?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/taloisik?style=social)](https://twitter.com/intent/follow?screen_name=taloisik)
 
   <br />
@@ -32,13 +32,13 @@ To run **Nomad** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/alphaotuken/nomad.git
+sudo git clone https://github.com/talobyte/nomad.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alphaotuken/nomad.git
+git clone https://github.com/talobyte/nomad.git
 ```
 
 ### Contact
